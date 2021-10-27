@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a1dbe01-8bfb-411d-8f4c-5f78287d4283" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/10 (Git 2)/remote_repo" />
+  </component>
+  <component name="ProjectId" id="1yYGiYPAU5aHw83I6MKYyJOKIuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/PRACTICE_CYCLES.py" />
+  </component>
+  <component name="RunManager" selected="Python.PRACTICE_CYCLES">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Лекции" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Лекции" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6/11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Лекции" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Лекции" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4/ДЗ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/ДЗ/4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PRACTICE_CYCLES" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Лекции" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/PRACTICE_CYCLES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PRACTICE_CYCLES" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.4" />
+        <item itemvalue="Python.3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a1dbe01-8bfb-411d-8f4c-5f78287d4283" name="Default Changelist" comment="" />
+      <created>1632421235806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632421235806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1633971854378">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1633971854378" />
+    <state width="1515" height="107" key="GridCell.Tab.0.bottom" timestamp="1634581708650">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="107" key="GridCell.Tab.0.bottom/0.0.1536.821@0.0.1536.821" timestamp="1634581708650" />
+    <state width="1515" height="107" key="GridCell.Tab.0.center" timestamp="1634581708650">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="107" key="GridCell.Tab.0.center/0.0.1536.821@0.0.1536.821" timestamp="1634581708650" />
+    <state width="1515" height="107" key="GridCell.Tab.0.left" timestamp="1634581708650">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="107" key="GridCell.Tab.0.left/0.0.1536.821@0.0.1536.821" timestamp="1634581708650" />
+    <state width="1515" height="107" key="GridCell.Tab.0.right" timestamp="1634581708650">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="107" key="GridCell.Tab.0.right/0.0.1536.821@0.0.1536.821" timestamp="1634581708650" />
+    <state width="1515" height="169" key="GridCell.Tab.1.bottom" timestamp="1633631327560">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="169" key="GridCell.Tab.1.bottom/0.0.1536.821@0.0.1536.821" timestamp="1633631327560" />
+    <state width="1515" height="169" key="GridCell.Tab.1.center" timestamp="1633631327560">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="169" key="GridCell.Tab.1.center/0.0.1536.821@0.0.1536.821" timestamp="1633631327560" />
+    <state width="1515" height="169" key="GridCell.Tab.1.left" timestamp="1633631327560">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="169" key="GridCell.Tab.1.left/0.0.1536.821@0.0.1536.821" timestamp="1633631327560" />
+    <state width="1515" height="169" key="GridCell.Tab.1.right" timestamp="1633631327560">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="1515" height="169" key="GridCell.Tab.1.right/0.0.1536.821@0.0.1536.821" timestamp="1633631327560" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1635350419006">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.821@0.0.1536.821" timestamp="1635350419006" />
+    <state x="341" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1633440274678">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="341" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.821@0.0.1536.821" timestamp="1633440274678" />
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup" timestamp="1633626926596">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="431" y="142" width="672" height="678" key="search.everywhere.popup/0.0.1536.821@0.0.1536.821" timestamp="1633626926596" />
+  </component>
+</project>
